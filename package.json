@@ -1,0 +1,23 @@
+{
+  "name": "demon-server",
+  "version": "1.0.0",
+  "description": "demo server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cthomp7/demon-server.git"
+  },
+  "author": "Chloe Thompson <cthomp7@saic.edu>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cthomp7/demon-server/issues"
+  },
+  "homepage": "https://github.com/Cthomp7/demon-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
